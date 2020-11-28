@@ -1,10 +1,10 @@
-layout: page
+---
+layout: default
 title: "PAGE TITLE"
 permalink: /about/
+---
 
-
-てすと 
-
+ 
 
 <ul>
   {% for post in site.posts %}
