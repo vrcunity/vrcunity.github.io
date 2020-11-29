@@ -18,28 +18,30 @@ VRCUnity勉強会 第五回公開講座「今日から使えるGitでのバッ�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PZQNQLLOGaI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
+
 そのほかの過去の講座は、[公開講座アーカイブ](/archive)をご覧ください。
 
 
-## Unity/Blenderお役立ち情報
+## ヒストリー
 
-### 書籍
-<div style="float:left">
-<img src="/assets/images/nazell_unity_book.jpg" width="300px">
-</div>
-<div style="float:left">ああああ</div>
-<div style="clear:both;"></div>
+### Cloth集会
+
+最近話題のClothコンポーネントについての基礎から応用までの勉強会
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFy7j_UFxRo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+## テスト２
+ほんぶんほんぶん
+
+### テスト3
+ほんぶんほんぶん
+
+#### test 4
+ほんぶんほんぶん
+
+##### test 5
+ほんぶんほんぶん
 
 
-## 参加方法
-
-興味がある方は、Discordサーバーにぜひ参加してください！
-
-招待URL: https://discord.gg/tv3aJQb
-
-
-## 連絡先
-
-スタッフ：せちろー、Nazell、IKEA/Istria、エスニヤ（うか）、GlinT
-
- 連絡先：  せちろー（ @sechiro_vrc ）
+###### test 6
+ほんぶんほんぶん

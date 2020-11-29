@@ -1,0 +1,106 @@
+---
+---
+
+@import  "{{ site.theme }}";
+
+/* Architectテーマのデフォルトフォントの 'Architects Daughter' の癖が強すぎるので、
+フォント指定だけ強制的に上書き。
+フォント指定は、以下のサイトの情報をもとに設定
+https://ics.media/entry/200317/
+*/
+header {
+   /* 「BIZ UDPゴシック」をWindowsで指定 */
+  font-family: "Helvetica Neue",
+  Arial,
+  "Hiragino Kaku Gothic ProN",
+  "Hiragino Sans",
+  "BIZ UDPGothic",
+  Meiryo,
+  sans-seri !important;
+  background: #ffffff;
+}
+body {
+    /* 「BIZ UDPゴシック」をWindowsで指定 */
+   font-family: "Helvetica Neue",
+   Arial,
+   "Hiragino Kaku Gothic ProN",
+   "Hiragino Sans",
+   //"BIZ UDPGothic",
+   Meiryo,
+   sans-seri !important;
+   font-size: 20px;
+ }
+#main-content h1,h2,h3,h4,h5,h6 {
+    font-family: "Helvetica Neue",
+    Arial,
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    "BIZ UDPGothic",
+    Meiryo,
+    sans-seri !important;
+}
+
+/* 見出しのインデントの調整 */
+$indent_base: 3px;
+#main-content h2 {
+    text-indent: $indent_base * 1;
+}
+#main-content h3 {
+    text-indent: $indent_base * 2;
+}
+#main-content h4 {
+    text-indent: $indent_base * 3;
+}
+#main-content h5 {
+    text-indent: $indent_base * 4;
+}
+#main-content h6 {
+    text-indent: $indent_base * 5;
+}
+
+#main-content h1:before {
+content: "■";
+}
+
+#main-content h2:before {
+content: "■";
+}
+
+#main-content h3:before {
+content: "■";
+}
+
+#main-content h4:before {
+content: "■";
+}
+
+#main-content h5:before {
+content: "■";
+}
+
+#main-content h6:before {
+content: "■";
+}
+
+
+header a.button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: transparent url(../images/Discord-Logo-Color.png) 100px 10px no-repeat;
+}
+
+a.button {
+    width: 160px;
+    height: 70px;
+    padding-top: 8px;
+    padding-left: 12px;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    font-size: 23px;
+    line-height: 1.2;
+    color: rgb(94, 94, 94);
+    border-color: rgb(92, 92, 92);
+    border-style: solid;
+    border-radius: 20px;
+}
+

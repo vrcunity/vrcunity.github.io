@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /** 1. Set default font family to sans-serif. 2. Prevent iOS text size adjust after orientation change, without disabling user zoom. */
 @import url("https://fonts.googleapis.com/css?family=Architects+Daughter");
@@ -388,3 +389,40 @@ footer a:hover { color: #444; }
   #main-content h1:before, #main-content h2:before, #main-content h3:before, #main-content h4:before, #main-content h5:before, #main-content h6:before { padding-right: 0; margin-left: 0; content: none; } }
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+/* Architectテーマのデフォルトフォントの 'Architects Daughter' の癖が強すぎるので、
+フォント指定だけ強制的に上書き。
+フォント指定は、以下のサイトの情報をもとに設定
+https://ics.media/entry/200317/
+*/
+header { /* 「BIZ UDPゴシック」をWindowsで指定 */ font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", Meiryo, sans-seri !important; background: #ffffff; }
+
+body { /* 「BIZ UDPゴシック」をWindowsで指定 */ font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-seri !important; font-size: 20px; }
+
+#main-content h1, h2, h3, h4, h5, h6 { font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "BIZ UDPGothic", Meiryo, sans-seri !important; }
+
+/* 見出しのインデントの調整 */
+#main-content h2 { text-indent: 3px; }
+
+#main-content h3 { text-indent: 6px; }
+
+#main-content h4 { text-indent: 9px; }
+
+#main-content h5 { text-indent: 12px; }
+
+#main-content h6 { text-indent: 15px; }
+
+#main-content h1:before { content: "■"; }
+
+#main-content h2:before { content: "■"; }
+
+#main-content h3:before { content: "■"; }
+
+#main-content h4:before { content: "■"; }
+
+#main-content h5:before { content: "■"; }
+
+#main-content h6:before { content: "■"; }
+
+header a.button { position: absolute; top: 0; right: 0; background: transparent url(../images/Discord-Logo-Color.png) 100px 10px no-repeat; }
+
+a.button { width: 160px; height: 70px; padding-top: 8px; padding-left: 12px; font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; font-size: 23px; line-height: 1.2; color: #5e5e5e; border-color: #5c5c5c; border-style: solid; border-radius: 20px; }
