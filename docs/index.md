@@ -25,7 +25,7 @@ VRCUnity勉強会 第五回公開講座「今日から使えるGitでのバッ�
 
 ### 書籍
 <div style="float:left">
-<img src="/assets/images/nazell_unity_book.jpg" width="300px">
+<a href="https://nazell.booth.pm/items/2203578"><img src="/assets/images/nazell_unity_book.jpg" width="300px"></a>
 </div>
 <div style="float:left;margin-left:10px;">勉強会発足のきっかけになった<br>初心者向けのアバター改変の解説書！<br>
 Unityの導入からConstraint設定や<br>パーティクル設定まで網羅</div>
@@ -36,7 +36,7 @@ Unityの導入からConstraint設定や<br>パーティクル設定まで網羅<
 
 興味がある方は、Discordサーバーにぜひ参加してください！
 
-招待URL: https://discord.gg/tv3aJQb
+[https://discord.gg/tv3aJQb](https://discord.gg/tv3aJQb)
 
 
 ## 連絡先
