@@ -27,7 +27,8 @@ VRCUnity勉強会 第五回公開講座「今日から使えるGitでのバッ�
 <div style="float:left">
 <img src="/assets/images/nazell_unity_book.jpg" width="300px">
 </div>
-<div style="float:left">ああああ</div>
+<div style="float:left;margin-left:10px;">勉強会発足のきっかけになった<br>初心者向けのアバター改変の解説書！<br>
+Unityの導入からConstraint設定や<br>パーティクル設定まで網羅</div>
 <div style="clear:both;"></div>
 
 
