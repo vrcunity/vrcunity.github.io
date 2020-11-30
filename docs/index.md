@@ -41,6 +41,6 @@ Unityの導入からConstraint設定や<br>パーティクル設定まで網羅<
 
 ## 連絡先
 
-スタッフ：せちろー、Nazell、IKEA/Istria、エスニヤ（うか）、GlinT
+スタッフ：[せちろー](https://twitter.com/sechiro_vrc)、[Nazell](https://twitter.com/nazeru2)、[IKEA/Istria](https://twitter.com/IKEA_ToS)、[エスニヤ（うか）](https://twitter.com/y_esnya)、[GlinT](https://twitter.com/GlinTFraulein)
 
- 連絡先：  せちろー（ @sechiro_vrc ）
+ 連絡先：  せちろー（[@sechiro_vrc](https://twitter.com/sechiro_vrc)）
