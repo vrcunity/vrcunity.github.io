@@ -13,9 +13,9 @@ VRCUnity勉強会は、VRChat向けのUnity技術をみんなで一緒に教え�
 
 ### 最新の公開講座
 
-VRCUnity勉強会 第五回公開講座「今日から使えるGitでのバックアップ（初級編）」
+VRCUnity勉強会 第七回公開講座「Udonに触らないSDK3ワールド講座」
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PZQNQLLOGaI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JJS4qoI5aT8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 そのほかの過去の講座は、[公開講座アーカイブ](/archive)をご覧ください。
@@ -31,6 +31,12 @@ VRCUnity勉強会 第五回公開講座「今日から使えるGitでのバッ�
 Unityの導入からConstraint設定や<br>パーティクル設定まで網羅</div>
 <div style="clear:both;"></div>
 
+<div style="float:left">
+<a href="https://glintfraulein.booth.pm/items/2612867"><img src="/assets/images/nazell_unity_book.jpg" width="300px"></a>
+</div>
+<div style="float:left;margin-left:10px;">初心者向けのアバター改変の解説書<br>待望続巻です！<br>
+前編で解説されなかったAvatars3.0の<br>ギミックを徹底解説！<br>簡単なギミックであれば一から実装可能に！</div>
+<div style="clear:both;"></div>
 
 ## 参加方法
 
@@ -41,6 +47,6 @@ Unityの導入からConstraint設定や<br>パーティクル設定まで網羅<
 
 ## 連絡先
 
-スタッフ：[せちろー](https://twitter.com/sechiro_vrc)、[Nazell](https://twitter.com/nazeru2)、[IKEA/Istria](https://twitter.com/IKEA_ToS)、[エスニヤ（うか）](https://twitter.com/y_esnya)、[GlinT](https://twitter.com/GlinTFraulein)
+スタッフ：[Nazell](https://twitter.com/nazeru2)、[IKEA/Istria](https://twitter.com/IKEA_ToS)、[エスニヤ（うか）](https://twitter.com/y_esnya)、[GlinT](https://twitter.com/GlinTFraulein)
 
- 連絡先：  せちろー（[@sechiro_vrc](https://twitter.com/sechiro_vrc)）
+ 連絡先：  Nazell（[@nazeru2](https://twitter.com/nazeru2)）もしくは VRCUnity勉強会（[@vrcunity](https://twitter.com/vrcunity)）
