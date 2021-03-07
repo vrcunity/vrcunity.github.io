@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "VRCUnity勉強会 第六回公開講座「世界最速！？Avatars3.0でBoolを使ってみよう！講座」"
-date: 2021-01-24 00:00:00 +0900
+title: "VRCUnity勉強会 第七回公開講座「Udonに触らないSDK3ワールド講座」"
+date: 2021-01-31 00:00:00 +0900
 categories: archive
 ---
 
