@@ -32,7 +32,7 @@ Unityの導入からConstraint設定や<br>パーティクル設定まで網羅<
 <div style="clear:both;"></div>
 
 <div style="float:left">
-<a href="https://glintfraulein.booth.pm/items/2612867"><img src="/assets/images/nazell_unity_book.jpg" width="300px"></a>
+<a href="https://glintfraulein.booth.pm/items/2612867"><img src="/assets/images/glint_unity_book.jpg" width="300px"></a>
 </div>
 <div style="float:left;margin-left:10px;">初心者向けのアバター改変の解説書<br>待望続巻です！<br>
 前編で解説されなかったAvatars3.0の<br>ギミックを徹底解説！<br>簡単なギミックであれば一から実装可能に！</div>
