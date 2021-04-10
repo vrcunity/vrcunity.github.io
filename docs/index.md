@@ -47,6 +47,6 @@ Unityの導入からConstraint設定や<br>パーティクル設定まで網羅<
 
 ## 連絡先
 
-スタッフ：[Nazell](https://twitter.com/nazeru2)、[IKEA/Istria](https://twitter.com/IKEA_ToS)、[エスニヤ（うか）](https://twitter.com/y_esnya)、[GlinT](https://twitter.com/GlinTFraulein)
+スタッフ：[Nazell](https://twitter.com/nazeru2)、[IKEA/Istria](https://twitter.com/IKEA_ToS)、[エスニヤ／ESNYA](https://twitter.com/y_esnya)、[GlinT](https://twitter.com/GlinTFraulein)、[meronmks / めろん](https://twitter.com/meronmks)、[Tony_Lewis](https://twitter.com/slord399)
 
  連絡先：  Nazell（[@nazeru2](https://twitter.com/nazeru2)）もしくは VRCUnity勉強会（[@vrcunity](https://twitter.com/vrcunity)）
