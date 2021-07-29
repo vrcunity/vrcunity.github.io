@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "VRCUnity勉強会関連書籍"
+title: "続・初心者向けUnity備忘録"
 date: 2021-03-19 01:01:01 -0000
 categories: information
 ---
